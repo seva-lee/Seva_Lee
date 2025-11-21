@@ -1,4 +1,4 @@
-# Pokémon Collection (static site)
+# Scaming (static site)
 
 This is a single-file static site at `index.html` that lists Pokémon and shows detail pages using the PokéAPI.
 
